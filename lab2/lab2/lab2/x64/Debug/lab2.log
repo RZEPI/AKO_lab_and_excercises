@@ -1,0 +1,12 @@
+﻿  Assembling lab.asm...
+lab.asm(3): error A2008: syntax error : .
+lab.asm(4): error A2008: syntax error : .
+lab.asm(22): error A2070: invalid instruction operands
+lab.asm(23): error A2070: invalid instruction operands
+lab.asm(29): error A2070: invalid instruction operands
+lab.asm(55): error A2070: invalid instruction operands
+lab.asm(56): error A2070: invalid instruction operands
+lab.asm(59): error A2008: syntax error : tekstu
+lab.asm(41): error A2229: cannot use labels and 32-bit addressing in the same expression
+lab.asm(51): error A2229: cannot use labels and 32-bit addressing in the same expression
+C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\lab.obj" /W3 /errorReport:prompt  /Talab.asm" exited with code 1.

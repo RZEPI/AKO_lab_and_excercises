@@ -1,0 +1,4 @@
+﻿  main.c
+D:\studia dev\AKO laby\lab4 przygotowania\4.1\4.1\main.c(7,41): warning C4474: 'scanf_s' : too many arguments passed for format string
+D:\studia dev\AKO laby\lab4 przygotowania\4.1\4.1\main.c(7,41): message : placeholders and their parameters expect 4 variadic arguments, but 5 were provided
+  4.1.vcxproj -> D:\studia dev\AKO laby\lab4 przygotowania\4.1\Debug\4.1.exe

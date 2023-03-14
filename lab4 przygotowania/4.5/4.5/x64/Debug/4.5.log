@@ -1,0 +1,6 @@
+﻿  main.c
+D:\studia dev\AKO laby\lab4 przygotowania\4.5\4.5\main.c(6,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '__int64'
+D:\studia dev\AKO laby\lab4 przygotowania\4.5\4.5\main.c(6,9): message : consider using '%lld' in the format string
+D:\studia dev\AKO laby\lab4 przygotowania\4.5\4.5\main.c(6,9): message : consider using '%Id' in the format string
+D:\studia dev\AKO laby\lab4 przygotowania\4.5\4.5\main.c(6,9): message : consider using '%I64d' in the format string
+  4.5.vcxproj -> D:\studia dev\AKO laby\lab4 przygotowania\4.5\x64\Debug\4.5.exe

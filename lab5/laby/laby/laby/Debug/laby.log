@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol _oblicz_potege referenced in function _main
+D:\studia dev\AKO laby\lab5\laby\laby\Debug\laby.exe : fatal error LNK1120: 1 unresolved externals
